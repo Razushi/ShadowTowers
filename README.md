@@ -2,33 +2,28 @@
 
 A minecraft mod that's gonna create the gameplay loop that the Trial Chamber really should have been. 
 
----
-
 # Features Planned
 
-Repeatable dungeons!
-Lootable dungeons!
-Destructive dungeons! (maybe not your patience)
-Not mind-numbing to find. (Yay!)
+- Repeatable dungeons! Lootable dungeons! Destructive dungeons!
 
-History feature! You can 'visit' past dungeons cleared.
-Coop with your friends (Hopefully.) 
-Explore interesting architecture? (What's so interesting about them?)
-Fight! Fight! Fight!
+- Not mind-numbing to find. (Yay!)
 
-Did I mention it's dungeons? Yes, I mean the combat kind.
+- History feature! You can 'visit' past dungeons cleared.
 
----
+- Coop with your friends (Hopefully.) 
+
+- Explore interesting architecture? (What's so interesting about them?)
 
 # Features Implemented
 
 What? Nothing? Wha-
 
----
+# Todo list:
 
-# Things for me on the todo list:
+- Wikihow on how to make a minecraft mod.
 
-Wikihow on how to make a minecraft mod.
-Make the minecraft mod.
-Sleep?
-Release the minecraft mod. 
+- Make the minecraft mod.
+
+- Sleep?
+
+- Release the minecraft mod. 
