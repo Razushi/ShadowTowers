@@ -1,17 +1,34 @@
 # Trials of Shadows
-A minecraft mod that's gonna create the gameplay loop that Trial Chamber really should have been. 
 
-## Introduces a new mechanic to get you into a repeatable dungeon and actually rewards you with loot + doesn't clog up the overworld + doesn't need to afk and mine for 283 hours to stumble upon. Dungeons are repeatable. |
+A minecraft mod that's gonna create the gameplay loop that the Trial Chamber really should have been. 
 
-You can 'visit' past dungeons cleared (created from a tileset design.)
+---
+
+# Features Planned
+
+Repeatable dungeons!
+Lootable dungeons!
+Destructive dungeons! (maybe not your patience)
+Not mind-numbing to find. (Yay!)
+
+History feature! You can 'visit' past dungeons cleared.
 Coop with your friends (Hopefully.) 
-Explore interesting architecture? (What's so interesting?)
-Fight.
+Explore interesting architecture? (What's so interesting about them?)
+Fight! Fight! Fight!
 
-Did I mention it's a dungeon? Yes, I mean the combat kind. 
+Did I mention it's dungeons? Yes, I mean the combat kind.
 
-## Things for me on the todo list:
-- Wikihow on how to make a minecraft mod.
-- Make the minecraft mod.
-- Sleep?
-- Release the minecraft mod. 
+---
+
+# Features Implemented
+
+What? Nothing? Wha-
+
+---
+
+# Things for me on the todo list:
+
+Wikihow on how to make a minecraft mod.
+Make the minecraft mod.
+Sleep?
+Release the minecraft mod. 
